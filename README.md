@@ -31,6 +31,7 @@ Welcome to my dedicated space for mastering Data Structures and Algorithms (DSA)
 ## 📈 Current Solved Problems Index
 ### 📦 Arrays
 1. **[LeetCode 1920 - Build Array from Permutation](./Arrays/1920_BuildArrayFromPermutation.java)** | Time: $O(N)$ \| Space: $O(N)$
+2. **[LeetCode 1929 - Concatenation of Array](./Arrays/1929_ConcatenationOfArray.java)** | Time: $O(N)$ \| Space: $O(N)$
 
 ---
 *Feel free to explore the folders to check my implementation logic! Tracker maintained daily.*
