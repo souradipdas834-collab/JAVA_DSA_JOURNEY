@@ -14,7 +14,7 @@ Welcome to my dedicated space for mastering Data Structures and Algorithms (DSA)
 
 | Topic | Progress Status | Solved Problems Count |
 | :--- | :--- | :---: |
-| 🔹 **Arrays** | 🟡 In Progress | 4 Problems |
+| 🔹 **Arrays** | 🟡 In Progress | 5 Problems |
 | 🔹 **Searching & Sorting** | 🔴 Not Started | 0 Problems |
 | 🔹 **Recursion & Backtracking** | 🔴 Not Started | 0 Problems |
 | 🔹 **Linked Lists / Stacks / Queues** | 🔴 Not Started | 0 Problems |
@@ -34,6 +34,7 @@ Welcome to my dedicated space for mastering Data Structures and Algorithms (DSA)
 2. **[LeetCode 1929 - Concatenation of Array](./Arrays/1929_ConcatenationOfArray.java)** | Time: $O(N)$ \| Space: $O(N)$
 3. **[LeetCode 1480 - Running Sum of 1D Array](./Arrays/1480_RunningSum1DOfArray.java)** | Time: $O(N)$ \| Space: $O(1)$
 4. **[LeetCode 1672 - Richest Customer Wealth](./Arrays/1672_RichestCustomerWealth.java)** | Time: $O(m*n)$ \| Space: $O(1)$
+5. **[LeetCode 1470 - Shuffle The Array](./Arrays/1470_ShuffleTheArray.java)** | Time: $O(n)$ \| Space: $O(n)$
 
 
 ---
