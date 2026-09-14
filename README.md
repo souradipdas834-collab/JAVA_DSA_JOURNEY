@@ -14,7 +14,7 @@ Welcome to my dedicated space for mastering Data Structures and Algorithms (DSA)
 
 | Topic | Progress Status | Solved Problems Count |
 | :--- | :--- | :---: |
-| 🔹 **Arrays** | 🟡 In Progress | 5 Problems |
+| 🔹 **Arrays** | 🟡 In Progress | 6 Problems |
 | 🔹 **Searching & Sorting** | 🔴 Not Started | 0 Problems |
 | 🔹 **Recursion & Backtracking** | 🔴 Not Started | 0 Problems |
 | 🔹 **Linked Lists / Stacks / Queues** | 🔴 Not Started | 0 Problems |
@@ -35,6 +35,7 @@ Welcome to my dedicated space for mastering Data Structures and Algorithms (DSA)
 3. **[LeetCode 1480 - Running Sum of 1D Array](./Arrays/1480_RunningSum1DOfArray.java)** | Time: $O(N)$ \| Space: $O(1)$
 4. **[LeetCode 1672 - Richest Customer Wealth](./Arrays/1672_RichestCustomerWealth.java)** | Time: $O(m*n)$ \| Space: $O(1)$
 5. **[LeetCode 1470 - Shuffle The Array](./Arrays/1470_ShuffleTheArray.java)** | Time: $O(n)$ \| Space: $O(n)$
+6. **[LeetCode 1431 - Kids With Greater Number Of Candies](./Arrays/1431_KidsWithGreaterNumberOfCandies.java)** | Time: $O(n)$ \| Space: $O(n)$
 
 
 ---
