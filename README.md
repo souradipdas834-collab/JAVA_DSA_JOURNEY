@@ -14,7 +14,7 @@ Welcome to my dedicated space for mastering Data Structures and Algorithms (DSA)
 
 | Topic | Progress Status | Solved Problems Count |
 | :--- | :--- | :---: |
-| 🔹 **Arrays** | 🟡 In Progress | 6 Problems |
+| 🔹 **Arrays** | 🟡 In Progress | 7 Problems |
 | 🔹 **Searching & Sorting** | 🔴 Not Started | 0 Problems |
 | 🔹 **Recursion & Backtracking** | 🔴 Not Started | 0 Problems |
 | 🔹 **Linked Lists / Stacks / Queues** | 🔴 Not Started | 0 Problems |
