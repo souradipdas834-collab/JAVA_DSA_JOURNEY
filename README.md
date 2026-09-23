@@ -14,7 +14,7 @@ Welcome to my dedicated space for mastering Data Structures and Algorithms (DSA)
 
 | Topic | Progress Status | Solved Problems Count |
 | :--- | :--- | :---: |
-| 🔹 **Arrays** | 🟡 In Progress | 8 Problems |
+| 🔹 **Arrays** | 🟡 In Progress | 9 Problems |
 | 🔹 **Searching & Sorting** | 🔴 Not Started | 0 Problems |
 | 🔹 **Recursion & Backtracking** | 🔴 Not Started | 0 Problems |
 | 🔹 **Linked Lists / Stacks / Queues** | 🔴 Not Started | 0 Problems |
@@ -38,6 +38,7 @@ Welcome to my dedicated space for mastering Data Structures and Algorithms (DSA)
 6. **[LeetCode 1431 - Kids With Greater Number Of Candies](./Arrays/1431_KidsWithGreaterNumberOfCandies.java)** | Time: $O(n)$ \| Space: $O(n)$
 7. **[LeetCode 1512 - Number Of Good Pairs](./Arrays/1512_NumberOfGoodPairs.java)** | Time: $O(n)$ \| Space: $O(1)$
 8. **[LeetCode 1365 - How Many Numbers Are Smaller Than Current Number](./Arrays/1365_HowManyNumbersAreSmallerThanCurrentNumber.java)** | Time: $O(n)$ \| Space: $O(1)$
+9. **[LeetCode 1389 - Create Target Array In Given Order](./Arrays/1389_CreateTargetArrayInGivenOrder.java)** | Time: $O(n^2)$ \| Space: $O(n)$
 
 
 ---
