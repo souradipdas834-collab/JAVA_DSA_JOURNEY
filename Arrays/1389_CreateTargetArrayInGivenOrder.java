@@ -1,3 +1,6 @@
+import java.util.ArrayList;
+import java.util.List;
+
 // APPROACH 1: TIME COMPLEXITY: O(n^2) , SPACE COMPLEXITY: O(n) 
 class Solution{
     public int[] createTargetArray(int[] nums, int[] index){
@@ -15,8 +18,6 @@ class Solution{
 }
 
 // APPROACH 2: TIME COMPLEXITY: O(n^2) , SPACE COMPLEXITY: O(n)
-import java.util.ArrayList;
-import java.util.List;
 class Solution{
     public int[] createTargetArray(int[] nums, int[] index){
         List<Integer> list=new ArrayList<>();
