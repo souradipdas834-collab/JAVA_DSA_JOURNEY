@@ -21,7 +21,7 @@ class Solution{
         int[] counts = new int[101];
         for(int i=0;i<nums.length;i++){
             int currentNumber = nums[i];
-            totalPairs+ = counts[currentNumber];
+            totalPairs += counts[currentNumber];
             counts[currentNumber]++;
         }
         return totalPairs;
