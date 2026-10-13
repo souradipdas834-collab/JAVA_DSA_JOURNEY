@@ -1,3 +1,4 @@
+import java.util.HashSet;
 // APPROACH 1: SPACE COMPLEXITY:O(1)  TIME COMPLEXITY:O(N)
 class Solution{
     public boolean checkIfPangram(String sentence) {
@@ -17,7 +18,6 @@ class Solution{
 }
 
 // APPROACH 2: SPACE COMPLEXITY:O(1)  TIME COMPLEXITY:O(N)
-import java.util.HashSet;
 class Solution{
     public boolean checkIfPangram(String sentence){
         int k=sentence.length();
