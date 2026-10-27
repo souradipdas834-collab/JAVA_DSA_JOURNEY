@@ -1,5 +1,5 @@
 import java.util.*;
-// APPROACH 1: 
+// APPROACH 1: TIME COMPLEXITY: O(N)  SPACE COMPLEXITY: O(1)
 
 class Solution{
     public int countMatches(List<List<String>> items, String ruleKey, String ruleValue){
@@ -27,7 +27,7 @@ class Solution{
     }
 }
 
-APPROACH 2:
+//APPROACH 2: TIME COMPLEXITY: O(N)  SPACE COMPLEXITY: O(1)
 class Solution{
     public int countMatches(List<List<String>> items, String ruleKey, String ruleValue){
         int index = ruleKey.equals("type")?0:ruleKey.equals("color")?1:2;
