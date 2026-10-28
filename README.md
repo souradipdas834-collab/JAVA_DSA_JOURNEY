@@ -43,3 +43,5 @@ Welcome to my dedicated space for mastering Data Structures and Algorithms (DSA)
 
 ---
 *Feel free to explore the folders to check my implementation logic! Tracker maintained daily.*
+
+-Successfully verified automated Jenkins pipeline tracking via Poll SCM! 
