@@ -1,5 +1,5 @@
 // APPROACH 1: TIME COMPLEXITY: O(n) , SPACE COMPLEXITY: O(1)
-class Solution{
+class Solution_1{
     public int[] smallerNumbersThanCurrent(int[] nums) {
         int[] count = new int[102];
         int[] ans = new int[nums.length];
@@ -21,7 +21,7 @@ class Solution{
 }
 
 // APPROACH 2: TIME COMPLEXITY: O(n^2) , SPACE COMPLEXITY: O(1)
-class Solution{
+class Solution_2{
     public int[] smallerNumbersThanCurrent(int[] nums) {
         int[] ans = new int[nums.length];
         for(int i = 0; i < nums.length; i++){

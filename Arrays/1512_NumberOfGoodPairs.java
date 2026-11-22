@@ -1,5 +1,5 @@
 // APPROACH 1: TIME COMPLEXITY: O(n^2) , SPACE COMPLEXITY: O(1)
-class Solution{
+class Solution_1{
     public int numIdenticalPairs(int[] nums){
         int count=0;
         for(int i=0;i<nums.length;i++){
@@ -15,7 +15,7 @@ class Solution{
 }
 
 // APPROACH 2: TIME COMPLEXITY: O(n) , SPACE COMPLEXITY: O(1)
-class Solution{
+class Solution_2{
     public int numIdenticalPairs(int[] nums){
         int totalPairs = 0;
         int[] counts = new int[101];

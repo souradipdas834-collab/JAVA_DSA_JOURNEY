@@ -4,7 +4,7 @@ import java.util.*;
 class Solution{
     public int countMatches(List<List<String>> items, String ruleKey, String ruleValue){
         int index=0;
-        switch(rulekey){
+        switch(ruleKey){
             case "type":
                 index=0;
                 break;
@@ -28,7 +28,7 @@ class Solution{
 }
 
 //APPROACH 2: TIME COMPLEXITY: O(N)  SPACE COMPLEXITY: O(1)
-class Solution{
+class Solution_2{
     public int countMatches(List<List<String>> items, String ruleKey, String ruleValue){
         int index = ruleKey.equals("type")?0:ruleKey.equals("color")?1:2;
         return (int)items.stream().filter(item->item.get(index).equals(ruleValue)).count();
