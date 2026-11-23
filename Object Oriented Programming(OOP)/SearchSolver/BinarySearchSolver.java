@@ -1,6 +1,5 @@
 package SearchSolver;
 // Child class 2: Overrides search() with Binary Search
-
 public class BinarySearchSolver extends SearchSolver {
     @Override 
     public int search(int[] arr, int target){
@@ -26,7 +25,6 @@ public class BinarySearchSolver extends SearchSolver {
             else if(target<arr[mid]) end=mid-1;
             else start=mid+1;
         }
-        return -1;
-        
+        return -1;  
     }
 }
