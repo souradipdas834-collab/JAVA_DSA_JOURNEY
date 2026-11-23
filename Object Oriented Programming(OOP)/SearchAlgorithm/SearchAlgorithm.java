@@ -1,3 +1,4 @@
+package SearchAlgorithm;
 public class SearchAlgorithm {
     String name;
     String timeComplexity;

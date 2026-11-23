@@ -1,3 +1,5 @@
+package SearchAlgorithm;
+
 public class BinarySearchAlgorithm extends SearchAlgorithm {
      
     //child constructor calling parent constructor via super()
