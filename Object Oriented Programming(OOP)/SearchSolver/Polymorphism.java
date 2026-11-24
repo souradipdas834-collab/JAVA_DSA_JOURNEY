@@ -8,11 +8,11 @@ public class Polymorphism {
 
         // RUNTIME POLYMORPHISM (Upcasting):
         // The reference type is SearchSolver (Parent class), but the actual object is (Child class) 
-        solver = new LinearSearchSolver();
-        System.out.println("Found at index: " + solver.search(sortedArray, target));
+        solver = new LinearSearchSolver(sortedArray);
+        System.out.println("Found at index: " + solver.search(8));
         System.out.println("---------------------------------");
-        solver = new BinarySearchSolver();
-        System.out.println("Found at index: " + solver.search(sortedArray, target));
+        solver = new BinarySearchSolver(sortedArray);
+        System.out.println("Found at index: " + solver.search(target));
     
     
     }
